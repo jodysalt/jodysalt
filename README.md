@@ -30,5 +30,4 @@ The main one is [Blognami](https://github.com/blognami/blognami), an open-source
 
 ## Get in touch
 
-- [jodysalt.com](https://jodysalt.com)
 - [jody@jodysalt.com](mailto:jody@jodysalt.com)
